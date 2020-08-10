@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+scipy
+theano
+pymc3
+seaborn
+covid19_inference
+scikit-learn
