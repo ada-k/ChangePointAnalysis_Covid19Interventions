@@ -7,3 +7,15 @@ Data used for the analysis is obtained from the John Hopkins University covid-19
 The 'behind the scenes' of the model used is in [this repository](https://github.com/Priesemann-Group/covid19_inference). The repo takes care of all the steps from data scraping to model formulation. Credits to [Jonas Dehning](https://science.sciencemag.org/content/369/6500/eabb9789), [Michael Wibral](https://science.sciencemag.org/content/369/6500/eabb9789) et.al.
 
 Find the research publication [here](https://science.sciencemag.org/content/369/6500/eabb9789).
+
+### Project Structure
+
+`scripts` Python script for the jupyter notebook: kernel3.ipynb
+
+`README.md` Markdown text with a brief explanation of the project and the repository structure.
+
+`kernel3.ipynb` Jupyter Notebook containing the analysis and modeling done to come up with observations and conclusions.
+
+`report.pdf` Project report.
+
+`requirements.txt` Dependancies. 
